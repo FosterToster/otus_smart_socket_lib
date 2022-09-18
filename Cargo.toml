@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "socket_app",
+    "socket_lib"
+]
